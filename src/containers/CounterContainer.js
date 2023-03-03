@@ -46,5 +46,4 @@ mapDispatchToProps함수의 변화과정
 3. 이렇게 객체만 주어도 connect에서 내부적으로 bindActionCreators작업을 해준다고 한다
 		increase,
 		decrease
-
 * */
